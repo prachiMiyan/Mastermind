@@ -13,3 +13,5 @@ When input is received from the Player, I check for wrong inputs so that edge ca
 I have also assumed that if there is a guessNum like 1234 and the input is 4444, the output is +, not +---. 
 Each digit is an individual entity recognized by its position and value. 
 The position of + and - does not hint toward the position of correct digits in the input.
+
+It took me 30 minutes to read and design the class diagrams for this project, 1.5 hours to code the solution, and 45 minutes to test the solution. It took me a total of 2 hours 45 minutes. 
